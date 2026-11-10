@@ -1,3 +1,5 @@
+![Dashboard](Retail_Sales_Dashboard.png)
+
 # Retail Sales Dashboard
 
 This is my first real Power BI project. I wanted to stop just watching tutorials and actually build something I can show to a company.
